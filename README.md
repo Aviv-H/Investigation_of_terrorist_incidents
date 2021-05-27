@@ -1,4 +1,4 @@
-# Data Science project about terrorist_incidents
+# Data Science project about terrorist attacks
 
 Step 1:     Crawling.ipynb 
 
