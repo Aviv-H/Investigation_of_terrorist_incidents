@@ -23,7 +23,7 @@ Step 4:     Machine Learning.ipynb
             - Linear Regression : Linear Regression, Linear Pipeline, Linear BayesianRidge, Linear Perceptron and Naive Bayes
             - Logistic Regression after Standard Scaler of the data
             - K Neighbors Classifier Model with  11  neighbors
-            - Decision Tree after balance the data with SMOTE function 
+            - Decision Tree after balance the data with SMOTE method 
 
 
 project Presention:
